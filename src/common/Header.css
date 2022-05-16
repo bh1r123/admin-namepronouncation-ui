@@ -1,0 +1,9 @@
+.defaulrmargin{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rowdiv{
+    display: flex;
+    flex-direction: row;
+}
